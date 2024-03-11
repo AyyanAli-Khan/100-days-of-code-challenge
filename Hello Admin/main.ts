@@ -1,4 +1,4 @@
-let usernames: string[] = ["eric","sofia","anderson","admin","andrew"];
+let usernames: string[] = ["kinza","nabeel","shayyan","admin","ahsan"];
 
 usernames.forEach((currentUsername: string) => {
             if (currentUsername.toLowerCase() == "admin") {
