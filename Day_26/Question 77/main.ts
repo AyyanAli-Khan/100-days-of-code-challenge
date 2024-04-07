@@ -6,5 +6,5 @@ function greeting(name: string = "admin"): string{
 console.log(greeting()); //calling without any arguments
 //output : Hello admin, how was the day today ?
 
-console.log(greeting("Ayyan")); //calling without any arguments
+console.log(greeting("Ayyan")); //calling with any arguments
 //output : Hello Ayyan, how was the day today ?
