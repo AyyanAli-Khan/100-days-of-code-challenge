@@ -1,5 +1,5 @@
 <h1>Hi, I'am Ayyan Ali Khan</h1>
-🚀 Welcome to the 100 Days of Coding Challenge! 🚀
+🚀 Welcome to the 30 Days of Coding Challenge! 🚀
 
 Join us on an exhilarating journey from novice to ninja coder in just 100 days!
 
